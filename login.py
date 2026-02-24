@@ -6,4 +6,5 @@ def basic_login():
     }
     print("=== Login SYSTEM ===")
 
-    
+    username = input("Enter username: ")
+    password = input("Enter password: ")
