@@ -1,2 +1,2 @@
 class Bike:
-    pass
+    passXXXXXXX
